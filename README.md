@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sanyam Phartyal</h1>
+<h3 align="center">A passionate Web Developer & CSE Student from Uttarakhand , India 🇮🇳</h3>
 
-<!--
-**Sanyam2511/Sanyam2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning **React** and exploring **Open Source**
 
-Here are some ideas to get you started:
+I’ve completed:
+- 3 major web projects (full-stack)
+- 2 hackathons (AI/ML & Social Good)
+- 80+ LeetCode problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- 🌐 Portfolio: [your-portfolio-link]
+- 📧 Email: sanyamphartyal822@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sanyam-phartyal-a21baa350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+My Tech Stack
+Frontend: HTML | CSS | JavaScript | React | Tailwind  
+Backend: Node.js | Express  
+Database: MongoDB  
+Tools: Git & GitHub | Vercel | VS Code
