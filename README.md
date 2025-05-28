@@ -13,6 +13,8 @@ I’ve completed:
 - 📧 Email: sanyamphartyal822@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sanyam-phartyal-a21baa350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=radical" alt="Sanyam2511" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam2511&layout=compact&theme=radical" alt="langs" /> </p>
+
 My Tech Stack
 Frontend: HTML | CSS | JavaScript | React | Tailwind  
 Backend: Node.js | Express  
