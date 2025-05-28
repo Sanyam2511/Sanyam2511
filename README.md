@@ -15,6 +15,11 @@ I’ve completed:
 
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=radical" alt="Sanyam2511" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam2511&layout=compact&theme=radical" alt="langs" /> </p>
 
+Recent Projects:
+RaktMitra - AI blood donation platform
+Foliona - Smart plant care assistant and plant marketplace
+StudyBuddy - Web based app for students with disabilities
+
 My Tech Stack
 Frontend: HTML | CSS | JavaScript | React | Tailwind  
 Backend: Node.js | Express  
