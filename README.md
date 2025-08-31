@@ -6,7 +6,7 @@ I’m currently learning **Databases** and exploring **Open Source**
 I’ve completed:
 - 3 major web projects (full-stack)
 - 2 hackathons (AI/ML & Social Good)
-- 110+ LeetCode problems
+- 140+ LeetCode problems
 
 📫 How to reach me:
 - 🌐 Portfolio: https://sanyam2511.github.io/portfolio/
