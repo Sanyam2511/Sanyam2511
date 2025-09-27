@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Sanyam Phartyal</h1>
 <h3 align="center">A passionate Web Developer & CSE Student from Uttarakhand , India 🇮🇳</h3>
 
-I’m currently learning **Databases** and exploring **Open Source**
+I’m currently learning **Cloud** and exploring **Open Source**
 
 I’ve completed:
 - 3 major web projects (full-stack)
-- 2 hackathons (AI/ML & Social Good)
-- 140+ LeetCode problems
+- 4 hackathons (AI/ML & Social Good)
+- 150+ LeetCode problems
 
 📫 How to reach me:
 - 🌐 Portfolio: https://sanyam2511.github.io/portfolio/
