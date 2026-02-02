@@ -34,13 +34,6 @@
 ### Tech Stack 
 HTML • CSS • JavaScript • React • Tailwind CSS • Next.js • TypeScript • Node.js • Express.js • MongoDB • PostGres • Git • GitHub • VS Code 
 
----
-
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam2511&layout=compact&theme=radical" alt="languages" />
-</p>
 
 ---
 
