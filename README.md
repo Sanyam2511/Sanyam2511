@@ -1,27 +1,50 @@
-<h1 align="center">Hi there, I'm Sanyam Phartyal</h1>
-<h3 align="center">A passionate Web Developer & CSE Student from Uttarakhand , India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Sanyam Phartyal</h1>
+<h3 align="center">Web Developer • CSE Student • Open Source Explorer 🇮🇳</h3>
 
-I’m currently learning **Cloud** and exploring **Open Source**
+<p align="center">
+  Building meaningful web products with clean UI, solid backend, and real-world impact.
+</p>
 
-I’ve completed:
-- 3 major web projects (full-stack)
-- 4 hackathons (AI/ML & Social Good)
-- 150+ LeetCode problems
+---
 
-📫 How to reach me:
-- 🌐 Portfolio: https://sanyam2511.github.io/portfolio/
-- 📧 Email: sanyamphartyal822@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sanyam-phartyal-a21baa350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### About Me
+- CSE Student from **Uttarakhand, India**
+- Passionate about **Full-Stack Web Development**
+- Currently learning **Cloud Computing & DevOps**
+- Exploring **Open Source Contributions**
+- Strong foundation in **DSA & Problem Solving**
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=radical" alt="Sanyam2511" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam2511&layout=compact&theme=radical" alt="langs" /> </p>
+---
 
-Recent Projects:
-RaktMitra - AI blood donation platform
-Foliona - Smart plant care assistant and plant marketplace
-StudyBuddy - Web based app for students with disabilities
+### Highlights
+-  **3 Full-Stack Web Projects**
+-  **4 Hackathons** (AI/ML & Social Good)
+-  **150+ LeetCode Problems Solved**
+-  Team collaboration & real-world MVP experience
 
-My Tech Stack
-Frontend: HTML | CSS | JavaScript | React | Tailwind  
-Backend: Node.js | Express  
-Database: MongoDB  
-Tools: Git & GitHub | Vercel | VS Code
+---
+
+###  Featured Projects
+-  **RaktMitra** – AI-powered emergency blood donation platform  
+-  **GhostStream** – A P2P file sharing platform built using webstream and socket.io  
+-  **StudyBuddy** – Learning web app for students with disabilities  
+
+---
+
+### Tech Stack 
+HTML • CSS • JavaScript • React • Tailwind CSS • Next.js • TypeScript • Node.js • Express.js • MongoDB • PostGres • Git • GitHub • VS Code 
+
+---
+
+###  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam2511&layout=compact&theme=radical" alt="languages" />
+</p>
+
+---
+
+### Connect With Me
+-  **Portfolio:** https://portfolio-steel-gamma-97.vercel.app/ 
+-  **LinkedIn:** https://www.linkedin.com/in/sanyam-phartyal-a21baa350  
+-  **Email:** sanyamphartyal822@gmail.com  
