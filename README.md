@@ -59,7 +59,7 @@
 ## Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanyam_2511/Sanyam_2511/output/github-contribution-grid-snake.svg" />
+  <img src=https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/refs/heads/output/github-contribution-grid-snake.svg />
 </p>
 
 ---
