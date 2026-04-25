@@ -2,42 +2,91 @@
 <h3 align="center">Web Developer • CSE Student • Open Source Explorer 🇮🇳</h3>
 
 <p align="center">
-  Building meaningful web products with clean UI, solid backend, and real-world impact.
+  Building impactful web products with clean UI, scalable backend, and real-world problem solving.
 </p>
 
 ---
 
-### About Me
-- CSE Student from **Uttarakhand, India**
-- Passionate about **Full-Stack Web Development**
-- Currently learning **Cloud Computing & DevOps**
-- Exploring **Open Source Contributions**
-- Strong foundation in **DSA & Problem Solving**
+## About Me
+-  CSE Student from **Uttarakhand, India**
+-  Passionate about **Full-Stack Development**
+-  Currently exploring **Cloud & DevOps**
+-  Contributing to **Open Source**
+-  Strong in **DSA & Problem Solving**
 
 ---
 
-### Highlights
--  **3 Full-Stack Web Projects**
--  **4 Hackathons** (AI/ML & Social Good)
--  **150+ LeetCode Problems Solved**
--  Team collaboration & real-world MVP experience
+##  Highlights
+-  **7 Full-Stack Projects**
+-  **150+ LeetCode Problems**
+-  **4 Hackathons** (AI/ML + Social Impact)
+-  Real-world team & MVP experience
 
 ---
 
-###  Featured Projects
--  **RaktMitra** – AI-powered emergency blood donation platform  
--  **GhostStream** – A P2P file sharing platform built using webstream and socket.io  
--  **StudyBuddy** – Learning web app for students with disabilities  
+## Featured Projects
+-  **RaktMitra** – AI-powered blood donation platform  
+-  **GhostStream** – P2P file sharing (WebRTC + Socket.io)  
+-  **StudyBuddy** – Learning platform for disabled students  
 
 ---
 
-### Tech Stack 
-HTML • CSS • JavaScript • React • Tailwind CSS • Next.js • TypeScript • Node.js • Express.js • MongoDB • PostGres • Git • GitHub • VS Code 
+##  Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,nodejs,express,mongodb,postgres,git,github,vscode,tailwind" />
+</p>
 
 ---
 
-### Connect With Me
--  **Portfolio:** https://portfolio-steel-gamma-97.vercel.app/ 
--  **LinkedIn:** https://www.linkedin.com/in/sanyam-phartyal-a21baa350  
--  **Email:** sanyamphartyal822@gmail.com  
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanyam2511&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam2511&theme=tokyo-night" />
+</p>
+
+---
+
+## Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sanyam_2511?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://portfolio-steel-gamma-97.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sanyam-phartyal-a21baa350">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sanyamphartyal822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I turn ☕ into code and ideas into real-world products 🚀
