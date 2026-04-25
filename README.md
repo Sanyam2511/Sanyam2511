@@ -51,7 +51,7 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam2511&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam2511&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -85,8 +85,3 @@
     <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-> I turn ☕ into code and ideas into real-world products 🚀
