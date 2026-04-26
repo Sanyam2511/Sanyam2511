@@ -1,45 +1,53 @@
 <h1 align="center">Hi 👋, I'm Sanyam Phartyal</h1>
-<h3 align="center">Web Developer • CSE Student • Open Source Explorer 🇮🇳</h3>
+<h3 align="center">Full-Stack Engineer • CSE Junior (Class of '26) • Open Source Explorer 🇮🇳</h3>
 
 <p align="center">
-  Building impactful web products with clean UI, scalable backend, and real-world problem solving.
+  Building high-performance web products with clean, modern UI, scalable backend architectures, and a passion for real-world problem-solving.
 </p>
 
 ---
 
-## About Me
--  CSE Student from **Uttarakhand, India**
--  Passionate about **Full-Stack Development**
--  Currently exploring **Cloud & DevOps**
--  Contributing to **Open Source**
--  Strong in **DSA & Problem Solving**
+## The TL;DR
+-  **3rd Year CSE Student** from Uttarakhand, India | **CGPA: 9.45**
+-  **Paid Intern @ FlowbitAI** (German Startup) – Shipping production-ready code.
+-  Passionate about **Full-Stack Development** (MERN, TypeScript) & Modern UI/UX.
+-  Currently diving deeper into **Cloud, DevOps, & Containerization (Docker)**.
+-  Strong foundation in **DSA** with a focus on optimized problem-solving (Java).
 
 ---
 
-##  Highlights
--  **7 Full-Stack Projects**
--  **150+ LeetCode Problems**
--  **4 Hackathons** (AI/ML + Social Impact)
--  Real-world team & MVP experience
+##  Professional Experience
+
+**Software Engineering Intern | FlowbitAI** *Remote (Germany)* - Working as a paid intern at a fast-paced German startup, contributing to real-world product development, improving system architectures, and collaborating with an international team.
 
 ---
 
-## Featured Projects
--  **RaktMitra** – AI-powered blood donation platform  
--  **GhostStream** – P2P file sharing (WebRTC + Socket.io)  
--  **StudyBuddy** – Learning platform for disabled students  
+##  Milestones & Impact
+-  **7 Full-Stack Projects** developed and deployed.
+-  **150+ LeetCode Problems** conquered, focusing on algorithms and data structures.
+-  **4 Hackathons** participated in, building MVPs focused on AI/ML and Social Impact.
+-  Proven experience working in teams to take ideas from concept to minimum viable product.
 
 ---
 
-##  Tech Stack
+## What I've Built (Featured Work)
+
+-  **RaktMitra** – An AI-powered blood donation platform bridging the gap between donors and recipients.  
+-  **GhostStream** – A peer-to-peer file-sharing application utilizing WebRTC and WebSockets for real-time networking and state synchronization.  
+-  **StudyBuddy** – An inclusive learning platform designed specifically for students with disabilities. 
+-  **RepoLens** – A web application that analyzes GitHub repositories and visualizes code structures using AST data and React Flow. 
+
+---
+
+## Arsenal & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,nodejs,express,mongodb,postgres,git,github,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,nodejs,express,mongodb,postgres,git,github,vscode,tailwind,docker,java" />
 </p>
 
 ---
 
-## GitHub Stats
+## GitHub Footprint
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanyam2511&show_icons=true&theme=tokyonight" />
@@ -48,23 +56,19 @@
 
 ---
 
-## Contribution Graph
+## Consistency & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam2511&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
-
-## Contribution Snake Game
-
 <p align="center">
-  <img src=https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/refs/heads/output/github-contribution-grid-snake.svg />
+  <img src="https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/refs/heads/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## LeetCode Stats
+## DSA & Problem Solving
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sanyam_2511?theme=dark&font=Nunito&ext=heatmap" />
@@ -72,7 +76,7 @@
 
 ---
 
-## Connect With Me
+## Let's Collaborate!
 
 <p align="center">
   <a href="https://portfolio-steel-gamma-97.vercel.app/">
