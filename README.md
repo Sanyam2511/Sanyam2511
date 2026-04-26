@@ -18,14 +18,14 @@
 
 ##  Professional Experience
 
-**Software Engineering Intern | FlowbitAI** *Remote (Germany)* - Working as a paid intern at a fast-paced German startup, contributing to real-world product development, improving system architectures, and collaborating with an international team.
+**Software Engineering Intern | FlowbitAI** *Remote (Germany)* - Worked as a paid intern at a fast-paced German startup, contributing to real-world product development, improving system architectures, and collaborating with an international team.
 
 ---
 
 ##  Milestones & Impact
 -  **7 Full-Stack Projects** developed and deployed.
--  **150+ LeetCode Problems** conquered, focusing on algorithms and data structures.
--  **4 Hackathons** participated in, building MVPs focused on AI/ML and Social Impact.
+-  **250+ LeetCode Problems** conquered, focusing on algorithms and data structures.
+-  **10 Hackathons** participated in, building MVPs focused on AI/ML and Social Impact.
 -  Proven experience working in teams to take ideas from concept to minimum viable product.
 
 ---
