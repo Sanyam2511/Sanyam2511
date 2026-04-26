@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanyam Phartyal</h1>
-<h3 align="center">Full-Stack Engineer • CSE Junior (Class of '26) • Open Source Explorer 🇮🇳</h3>
+<h3 align="center">Full-Stack Engineer • CSE Junior (Class of '27) • Open Source Explorer 🇮🇳</h3>
 
 <p align="center">
   Building high-performance web products with clean, modern UI, scalable backend architectures, and a passion for real-world problem-solving.
@@ -7,7 +7,7 @@
 
 ---
 
-## The TL;DR
+## Professional Overview
 -  **3rd Year CSE Student** from Uttarakhand, India | **CGPA: 9.45**
 -  **Paid Intern @ FlowbitAI** (German Startup) – Shipping production-ready code.
 -  Passionate about **Full-Stack Development** (MERN, TypeScript) & Modern UI/UX.
