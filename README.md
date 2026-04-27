@@ -127,8 +127,8 @@ currently_shipping: Production-grade features at a German startup
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/refs/heads/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
