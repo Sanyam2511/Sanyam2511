@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, dockerfile
+          plugin_languages_limit: 8
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used
+          config_timezone: Asia/Kolkata
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.activity.svg
+          base: activity, community
+          config_timezone: Asia/Kolkata
