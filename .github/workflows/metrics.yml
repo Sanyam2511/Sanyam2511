@@ -21,6 +21,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
+          config_background: "#0d1117"
+          config_foreground: "#c9d1d9"
+          config_border: "#21262d"
 
       - uses: lowlighter/metrics@latest
         with:
@@ -33,6 +36,9 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used
           config_timezone: Asia/Kolkata
+          config_background: "#0d1117"
+          config_foreground: "#c9d1d9"
+          config_border: "#21262d"
 
       - uses: lowlighter/metrics@latest
         with:
@@ -40,3 +46,6 @@ jobs:
           filename: metrics.activity.svg
           base: activity, community
           config_timezone: Asia/Kolkata
+          config_background: "#0d1117"
+          config_foreground: "#c9d1d9"
+          config_border: "#21262d"
