@@ -26,19 +26,19 @@
 
 ## About
 
-3rd-year Computer Science student at a top Indian university, currently working as a **paid Software Engineering Intern at FlowbitAI** — a German B2B SaaS startup — where I ship production-ready features across the full stack. I build with the MERN stack and TypeScript, care deeply about system design and clean UI, and actively contribute to open source.
+3rd-year Computer Science student at a top Indian university with hands-on industry experience shipping production code at an international startup. I build with the MERN stack and TypeScript, care deeply about system design and clean UI, and actively contribute to open source.
 
 ---
 
 ## Experience
 
-**Software Engineering Intern — FlowbitAI** `Remote · Germany · 2024–Present`
+**Software Engineering Intern — FlowbitAI** `Remote · Germany · Sep 2025 – Dec 2025`
 
-FlowbitAI is a fast-growing German startup building enterprise workflow automation tools. As a paid intern, I contribute directly to production, collaborating with an international engineering team across the full product lifecycle.
+FlowbitAI is a German B2B SaaS startup building enterprise workflow automation tools. As a paid intern, I contributed directly to production, collaborating with an international engineering team across the full product lifecycle.
 
-- Developing and shipping full-stack features in a production TypeScript + React + Node.js codebase
-- Working within an agile, remote-first team with engineers across Europe
-- Handling real user-facing functionality with a focus on performance and reliability
+- Developed and shipped full-stack features in a production TypeScript + React + Node.js codebase
+- Worked within an agile, remote-first team with engineers across Europe
+- Handled real user-facing functionality with a focus on performance and reliability
 
 ---
 
@@ -81,14 +81,6 @@ FlowbitAI is a fast-growing German startup building enterprise workflow automati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam2511&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35322" width="100%"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/main/metrics.isocalendar.svg" width="49%" alt="3D Contribution Calendar"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/main/metrics.languages.svg" width="49%" alt="Languages"/>
-</div>
-
 ---
 
 ## Competitive Programming
@@ -99,17 +91,17 @@ FlowbitAI is a fast-growing German startup building enterprise workflow automati
 
 <br/>
 
-**250+ problems** solved on LeetCode with a focus on data structures, algorithms, and time complexity optimization. Primary language: Java.
+**243 problems** solved on LeetCode — 132 Easy · 99 Medium · 12 Hard. Primary language: Java.
 
 ---
 
 ## Highlights
 
-- **CGPA 9.45**
-- **Paid international internship** at a European startup as a 3rd-year student
+- **CGPA 9.45** — consistently top of class
+- **Paid international internship** at a German startup completed as a 2nd-year student
 - **10 hackathons** participated in, building AI/ML and social impact MVPs
 - **7 full-stack projects** deployed end-to-end
-- Experience working in an international, remote-first engineering environment
+- Proven experience in an international, remote-first engineering environment
 
 ---
 
