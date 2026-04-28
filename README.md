@@ -81,6 +81,13 @@ FlowbitAI is a German B2B SaaS startup building enterprise workflow automation t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanyam2511&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=39d35322" width="100%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/main/metrics.isocalendar.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Sanyam2511/Sanyam2511/main/metrics.languages.svg" width="49%"/>
+</div>
+
 ---
 
 ## Competitive Programming
