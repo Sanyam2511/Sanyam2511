@@ -26,7 +26,7 @@
 
 ## About
 
-3rd-year Computer Science student at a top Indian university with hands-on industry experience shipping production code at an international startup. I build with the MERN stack and TypeScript, care deeply about system design and clean UI, and actively contribute to open source.
+3rd-year Computer Science student with hands-on industry experience shipping production code at an international startup. I build with the MERN stack and TypeScript, care deeply about system design and clean UI, and actively contribute to open source.
 
 ---
 
