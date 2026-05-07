@@ -99,14 +99,14 @@ FlowbitAI is a German B2B SaaS startup building enterprise workflow automation t
 
 <br/>
 
-**243 problems** solved on LeetCode — 132 Easy · 99 Medium · 12 Hard. Primary language: Java.
+**249 problems** solved on LeetCode — 137 Easy · 100 Medium · 12 Hard. Primary language: Java.
 
 ---
 
 ## Highlights
 
 - **CGPA 9.45** — consistently top of class
-- **Paid international internship** at a German startup completed as a 2nd-year student
+- **Paid international internship** at a German startup completed as a 3rd-year student
 - **10 hackathons** participated in, building AI/ML and social impact MVPs
 - **7 full-stack projects** deployed end-to-end
 - Proven experience in an international, remote-first engineering environment
