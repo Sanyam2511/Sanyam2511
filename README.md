@@ -97,10 +97,6 @@ FlowbitAI is a German B2B SaaS startup building enterprise workflow automation t
   <img src="https://leetcard.jacoblin.cool/Sanyam_2511?theme=dark&font=Nunito&ext=heatmap&border=0&radius=6" alt="LeetCode Stats"/>
 </div>
 
-<br/>
-
-**249 problems** solved on LeetCode — 137 Easy · 100 Medium · 12 Hard. Primary language: Java.
-
 ---
 
 ## Highlights
