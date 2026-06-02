@@ -91,7 +91,7 @@ FlowbitAI is a German B2B SaaS startup building enterprise workflow automation t
 
 ---
 
-## Competitive Programming
+## Logical Thinking and Programming
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Sanyam_2511?theme=dark&font=Nunito&ext=heatmap&border=0&radius=6" alt="LeetCode Stats"/>
