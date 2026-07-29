@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.65908340244758" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="236.65908340244758" y="0" width="216.04593114960917" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.70501455205675" y="0" width="6.904340332132411" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.60935488418914" y="0" width="0.3906451158108081" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.260317311693" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="235.260317311693" y="0" width="215.2239453550255" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.4842626667185" y="0" width="9.126578497421455" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.61084116413997" y="0" width="0.3891588358600062" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>51.45%</div>
+                                <div>51.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,7 +47,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>1.5%</div>
+                                <div>1.98%</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>46.97%</div>
+                                <div>46.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
